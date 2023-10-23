@@ -1,0 +1,39 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="left-side">
+            <h1>Register Now</h1>
+            <p>Get Notification & updates. To access our main page you should register or login in our page. Register in
+                this page to access our website or Login your old account using login button. You want to login
+                everytime you come to this website.</p>
+        </div>
+
+        <div class="right-side">
+
+            <form action="register.php" method="POST">
+                <input type="text" name="name" id="name" placeholder="Enter Your Name" required>
+                <input type="email" name="email" id="email" placeholder="Enter Email" required>
+                <input type="password" name="password" id="password" placeholder="Enter Password" required minlength="6">
+                <p style="color: rgb(54, 47, 47); padding-top: 10px; font-size: 0.8rem;">Password must be a minimum of 6 characters long</p>
+                <input type="submit" value="Signup" class="submit" name="submit">
+                <p style="margin-top: 10px;">-------- or --------</p>
+            </form>
+            <button type="submit"><a href="login/login.html">Login</a></button>
+            
+        </div>
+
+    </div>
+
+</body>
+
+</html>
