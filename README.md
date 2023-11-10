@@ -9,16 +9,16 @@
 # Running ScreenShot
 
 ### Register Page
-<img src="img/Screenshot (64).png" alt="Register Page" width="300">
+<img src="img/Screenshot (64).png" alt="Register Page" width="100%">
 
 ### Login Page
-<img src="img/Screenshot (65).png" alt="Login Page" width="300">
+<img src="img/Screenshot (65).png" alt="Login Page" width="100%">
 
 ### Welcome Page
-<img src="img/Screenshot (66).png" alt="Welcome Page" width="300">
+<img src="img/Screenshot (66).png" alt="Welcome Page" width="100%">
 
 ### Alert Messages
-<img src="img/Screenshot (68).png" alt="Alert Messages login success" width="300">   <img src="img/Screenshot (67).png" alt="alert msg login error" width="300">
+<img src="img/Screenshot (68).png" alt="Alert Messages login success" width="100%">   <img src="img/Screenshot (67).png" alt="alert msg login error" width="100%">
 
 ## Projects
 
